@@ -29,7 +29,7 @@ footer,
 }
 .main-section {
     border-radius: 5px;
-    background-color: #efefef;
+    background-color: #f3f3f3;
     padding: 20px;
     margin-bottom: 20px;
     flex: 1 1 auto;
@@ -48,6 +48,9 @@ footer,
     margin: 10px 0px;
     padding: 5px;
     width: auto;
+}
+code {
+    background-color: white;
 }
 aside {
     background-color: lightblue;

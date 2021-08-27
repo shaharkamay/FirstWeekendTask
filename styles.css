@@ -86,7 +86,10 @@ label {
 }
 footer {
     display: flex;
-    background-color: rgb(218, 218, 218);
+    background-image: url("./banner.jpeg");
+    background-position: center;
+    color: white;
+    font-weight: bold;
     flex: 0 0 100px;
     align-items: center;
 }

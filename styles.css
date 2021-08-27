@@ -52,6 +52,10 @@ footer,
 code {
     background-color: white;
 }
+label {
+    text-decoration: underline;
+    font-weight: bold;
+}
 aside {
     background-color: lightblue;
     height: 100%;
